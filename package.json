@@ -1,0 +1,26 @@
+{
+  "name": "crash-course",
+  "version": "1.0.0",
+  "description": "following a node tutorial cuz i can",
+  "main": "files.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordOfDeadbush/node-crash-course.git"
+  },
+  "author": "LordOfDeadbush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordOfDeadbush/node-crash-course/issues"
+  },
+  "homepage": "https://github.com/LordOfDeadbush/node-crash-course#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
